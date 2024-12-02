@@ -1,5 +1,5 @@
 # Python Password Generator 🔑
-jk
+j
 A simple yet effective password generator built using Python’s **`string`** and **`random`** modules. This tool creates secure, randomly generated passwords by combining uppercase and lowercase letters, numbers, and special characters, ensuring robust protection against unauthorized access.
 
 ## Features ✨
